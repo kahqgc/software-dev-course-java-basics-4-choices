@@ -3,6 +3,7 @@ package org.example;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Arrays;
 
 // For these exercises, you need to declare a single variable
 // in each function that uses the appropriate collection type
